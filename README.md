@@ -1,2 +1,4 @@
 # bootcamp2020c01
-BootCamp2020c01 - Development Setup
+Development Setup
+* Create a Basic HTML page
+* Deploy on Surge using Github Actions
